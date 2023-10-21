@@ -1,0 +1,33 @@
+{
+  "name": "vite-template",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Vite vanilla js template with eslint and prettier",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dixeet/vite-template-js.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-template"
+  ],
+  "author": "Robin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dixeet/vite-template-js/issues"
+  },
+  "homepage": "https://github.com/Dixeet/vite-template-js#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.0.3"
+  }
+}
