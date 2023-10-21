@@ -24,6 +24,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "dependencies": {},
   "devDependencies": {
     "vite": "^4.4.5",
     "eslint": "^8.50.0",
